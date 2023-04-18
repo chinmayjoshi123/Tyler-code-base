@@ -1,0 +1,12 @@
+D:\Coding\Tyler\EmployeeForm\EmployeeApp_BusinessLayer\bin\Debug\net7.0\EmployeeApp_BusinessLayer.deps.json
+D:\Coding\Tyler\EmployeeForm\EmployeeApp_BusinessLayer\bin\Debug\net7.0\EmployeeApp_BusinessLayer.dll
+D:\Coding\Tyler\EmployeeForm\EmployeeApp_BusinessLayer\bin\Debug\net7.0\EmployeeApp_BusinessLayer.pdb
+D:\Coding\Tyler\EmployeeForm\EmployeeApp_BusinessLayer\obj\Debug\net7.0\EmployeeApp_BusinessLayer.csproj.AssemblyReference.cache
+D:\Coding\Tyler\EmployeeForm\EmployeeApp_BusinessLayer\obj\Debug\net7.0\EmployeeApp_BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Tyler\EmployeeForm\EmployeeApp_BusinessLayer\obj\Debug\net7.0\EmployeeApp_BusinessLayer.AssemblyInfoInputs.cache
+D:\Coding\Tyler\EmployeeForm\EmployeeApp_BusinessLayer\obj\Debug\net7.0\EmployeeApp_BusinessLayer.AssemblyInfo.cs
+D:\Coding\Tyler\EmployeeForm\EmployeeApp_BusinessLayer\obj\Debug\net7.0\EmployeeApp_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Coding\Tyler\EmployeeForm\EmployeeApp_BusinessLayer\obj\Debug\net7.0\EmployeeApp_BusinessLayer.dll
+D:\Coding\Tyler\EmployeeForm\EmployeeApp_BusinessLayer\obj\Debug\net7.0\refint\EmployeeApp_BusinessLayer.dll
+D:\Coding\Tyler\EmployeeForm\EmployeeApp_BusinessLayer\obj\Debug\net7.0\EmployeeApp_BusinessLayer.pdb
+D:\Coding\Tyler\EmployeeForm\EmployeeApp_BusinessLayer\obj\Debug\net7.0\ref\EmployeeApp_BusinessLayer.dll
